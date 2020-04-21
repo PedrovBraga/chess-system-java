@@ -21,7 +21,6 @@ public class Piece {
     protected Board getBoard() {
         return board;
     }
-    
-    
+       
     
 }
